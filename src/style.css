@@ -1,0 +1,27 @@
+.button{
+ background-color:bisque;
+ color:green;
+ padding: 15px 30px;
+ font-size: 20px;
+ font-family: sans-serif;
+ font-style: oblique;
+ border-radius: 20px;
+ margin-right: 5px;
+ border: none;
+ text-align: center;
+}
+div{
+ text-align: center;
+ 
+}
+h1{
+ color:blue;
+ font-family:cursive;
+ font-style: oblique;
+
+}
+h2{
+ font-size: 30pt;
+ font-family:fantasy;
+ font-style: oblique;
+}
